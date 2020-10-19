@@ -3,7 +3,26 @@
       {
         "id": 1,
         "cakeFlavour": "Red Velvet",
-        "cakeTier": 3
+        "cakeTier": 3,
+        "image": "https://i.pinimg.com/474x/39/59/a8/3959a8f1ec40a1733e1de64da69719db.jpg"
+      },
+      {
+        "id": 2,
+        "cakeFlavour": "Chocolate",
+        "cakeTier": 5,
+        "image": "https://i.pinimg.com/564x/9d/5a/ab/9d5aabaeaee03bd497e9d1dc52cd5fd5.jpg"
+      },
+      {
+        "id": 3,
+        "cakeFlavour": "Vanilla",
+        "cakeTier": 4,
+        "image": "https://i.pinimg.com/564x/24/7f/e2/247fe2f935421b8bf4b6ac579cda419f.jpg"
+      },
+      {
+        "id": 3,
+        "cakeFlavour": "Strawberry",
+        "cakeTier": 2,
+        "image": "https://i.pinimg.com/564x/c4/7c/88/c47c88256ac7eb2e8c07be50ce6b50ef.jpg"
       }
     ],
     "profile": {
