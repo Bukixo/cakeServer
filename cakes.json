@@ -1,0 +1,12 @@
+{
+    "cakes": [
+      {
+        "id": 1,
+        "cakeFlavour": "Red Velvet",
+        "cakeTier": 3
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
